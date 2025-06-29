@@ -18,6 +18,8 @@ public class JavaOperators7 {
         Conditional operators
         ?:
          */
+
+        // arithmetic operators
         int a = 10, b = 20, c = 15, d = 25;
 
         System.out.println("a + b = " + (a + b));
