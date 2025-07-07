@@ -11,9 +11,12 @@ public class main10 {
         System.out.println("value of n3 = " + n3);
 
         /*
+
+
         n1= 102
         n2= 100
         n3= 101 + 100 = 201
+
 
          */
 
