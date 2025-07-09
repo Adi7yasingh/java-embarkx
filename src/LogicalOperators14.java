@@ -4,6 +4,7 @@ public class LogicalOperators14 {
         Logical operators
         &&(AND) ||(OR) !(NOT)
          */
+
         int a = 10;
         int b = 5;
         boolean c = true;
@@ -19,6 +20,7 @@ public class LogicalOperators14 {
         // Logical NOT (!)
         System.out.println(!c); // !true = false
         System.out.println(!(a == b)); // !(false) = true
+        //not operator works only on one operand
 
         //logical operators only take boolean values and also return boolean
 
