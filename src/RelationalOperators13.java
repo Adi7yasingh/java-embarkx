@@ -1,23 +1,18 @@
 public class RelationalOperators13 {
     public static void main(String[] args) {
          /*
-        = TYPES OF JAVA OPERATORS =
-
-        Arithmetic operators
-        + - * / % ++ --
 
         Relational operators
         == != > < >= <=
 
-        Logical operators
-        && || !
-
-        Assignment operators
-        = += -= *= /= %=
-
-        Conditional operators
-        ?:
          */
+        int a = 10, b = 20;
+        System.out.println("a==b  : " + (a==b));
+        System.out.println("a!=b  : " + (a!=b));
+        System.out.println("a>b  : " + (a>b));
+        System.out.println("a<b  : " + (a<b));
+        System.out.println("a>=b  : " + (a>=b));
+        System.out.println("a<=b  : " + (a<=b));
 
     }
 }
