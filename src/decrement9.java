@@ -11,5 +11,10 @@ public class decrement9 {
         System.out.println("value of x = " + x);
         System.out.println("value of y = " + y);
         System.out.println("value of z = " + z);
+        /*
+        98
+        100
+        98
+         */
     }
 }
