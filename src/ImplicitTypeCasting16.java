@@ -1,4 +1,4 @@
-public class ImplicitFirst16 {
+public class ImplicitTypeCasting16 {
     public static void main(String[] args) {
     byte b = 100;
     int i = b;
