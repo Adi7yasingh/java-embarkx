@@ -15,5 +15,5 @@ public class FactsAboutIfElse23 {
         2. if(x == 10) will work
         3. boolean x = true;
            if(x = false)  this will also work
-
+        4.
  */
