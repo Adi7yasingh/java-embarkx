@@ -22,11 +22,21 @@ public class FactsWhileLoop28 {
         //invalid because it is an infinite loop (unreachable statement)
          */
 
+        /*
+
+
         //example 2
         while(false){
             System.out.println("hello"); //loop body is unreachable, it will never execute this code
         }
         System.out.println("hi");
 
+        // example 5
+        final int a =10, b= 20;
+        while(a<b){
+            System.out.println("hello");
+        }
+        System.out.println("hi"); //this statement goes unreachable because of hardcoded
+        */
     }
 }
