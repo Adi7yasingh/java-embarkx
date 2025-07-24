@@ -17,6 +17,11 @@ public class CodingChallengeWhileloop29 {
             i++;
         }
 
+
+
+
+
+
         System.out.println("Factorial of " + a + " is " + factorial);
 
     }
