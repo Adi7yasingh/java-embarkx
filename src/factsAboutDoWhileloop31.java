@@ -50,7 +50,34 @@ public class factsAboutDoWhileloop31 {
         }while(a > b);
         System.out.println("hi");
 
+        //example 6
+
+        do
+            System.out.println("Hello");
+        while(true);
+
+       //example 7
+
+       do;
+       while(true);
+
+       //example 8
+
+        do
+           int x = 10; //declaration is not allowed
+        while(true);
+
+        //example 9
+        do {
+            int x = 10; //declaration is not allowed
+        }while(true);
+
+        //example 10
+        do
+            while(true); ///invalid code
          */
+
+
     }
 
 }
