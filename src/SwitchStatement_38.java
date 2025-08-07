@@ -26,6 +26,8 @@ Rules :
             case 3:
                 System.out.println("March");
                 break;
+            default:
+                System.out.println("default");
 
         }
         System.out.println("Out of Switch");
