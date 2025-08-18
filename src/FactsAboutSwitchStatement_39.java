@@ -6,6 +6,7 @@ public class FactsAboutSwitchStatement_39 {
          ex- switch(s){
              }
       2. Every case should be a compile time constant.
+
          ex- final int x = 100;
              switch(s){
              case 1: {
