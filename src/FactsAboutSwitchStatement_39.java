@@ -14,6 +14,7 @@ public class FactsAboutSwitchStatement_39 {
              case x:{
              }
              }
+
       3. Both  switch arguments and case labels can be expressions. but case labels should be constant expression.
 
 
